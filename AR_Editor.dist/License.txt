@@ -1,0 +1,65 @@
+*Custom Software License Agreement*
+
+Copyright (C) 2025 Abdullah.Dev
+
+This program is free software: you can redistribute it and/or use it under the terms of this Custom Software License Agreement, which grants the following rights and imposes the following conditions:
+
+1. *License Grant*: You are allowed to use, copy, and distribute the Software freely for personal, educational, or non-commercial purposes, provided that you comply with all terms and conditions set forth in this License Agreement.
+
+2. *No Modification*: You may not modify, alter, reverse engineer, or otherwise change the Software in any way. All parts of the Software must remain intact and unaltered.
+
+3. *Non-Commercial Use*: This Software is licensed for non-commercial use only. You may not sell, lease, sublicense, or use the Software itself for commercial purposes or for profit in any way. Any unauthorized commercial use will result in immediate termination of this license.
+
+4. *Distribution Rights*: You may freely distribute copies of the Software, provided that the copyright notice and this License Agreement are included in all copies or substantial portions of the Software. You may not distribute the Software for profit or in any manner that violates the terms of this Agreement.
+
+5. *No Warranty*: The Software is provided "as is", without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+ *6. Safe Distribution*:
+To ensure safety, the Software must only be downloaded from secure and trusted sources. While an official Discord server is currently used for support, availability is not guaranteed. Always verify the source before downloading.
+Note: The official Discord server or any support channel may change without prior notice. Please refer to the most up-to-date contact information from official sources.
+
+7. *License Termination*: The copyright holder reserves the right to terminate this license at any time if you fail to comply with any of the terms and conditions outlined in this Agreement. Upon termination, you must cease all use and distribution of the Software and destroy any copies in your possession.
+
+8. *Rights to Sell*: The only individual authorized to sell or offer the Software for a fee is the copyright holder (Abdullah.Dev). No other individual or entity is permitted to sell or profit from the Software itself.
+
+9. *Future Versions*: If the Software remains free in future releases, you may continue to distribute it freely for non-commercial purposes. However, if the Software is sold in future releases, you are prohibited from distributing or profiting from it without explicit permission from the copyright holder.
+
+10. *Intellectual Property Rights*: All rights, titles, and interests in the Software, including but not limited to the source code, program name, logos, and design, are owned by Abdullah.Dev. No right or license is granted to the user implicitly or explicitly to use any of these rights, except as outlined in this Agreement.
+
+11. *No Circumvention*: You may not circumvent any of the restrictions outlined in this License Agreement, including renaming, modifying, or redistributing the Software or its parts to bypass the limitations specified in this agreement.
+
+12. *Support and Updates*: The copyright holder is not obligated to provide any technical support or updates for the Software unless explicitly stated. Any future updates or enhancements are provided at the sole discretion of Abdullah.Dev.
+
+13. *Governing Law and Jurisdiction*: This Agreement shall be governed by and construed in accordance with the laws of Saudi Arabia. Any dispute arising from this Agreement shall be resolved exclusively by the courts in Saudi Arabia.
+
+14. *Prohibited Activities*: You may not use the Software for any unlawful activities, including but not limited to hacking, spreading malware, or using it for surveillance without permission. Unauthorized use will lead to the immediate termination of this license.
+
+15. *Privacy and Data Collection*: If the Software collects any data from the user, the user agrees to the collection and use of such data in accordance with the Privacy Policy established by Abdullah.Dev. No data will be sold or shared with third parties without explicit consent.
+
+16. *Source Code Restriction*: You agree that you shall not access, use, modify, or reverse-engineer the source code of the Software in any way. All parts of the Software must remain intact and unaltered. Any unauthorized use of the source code is a breach of this License and subject to legal action.
+
+17. *API Key Protection*: If an API key is provided as part of the Software, the use of this key is restricted to you only. You must take appropriate measures to ensure the security of the API key and prevent it from being leaked to unauthorized third parties. Any unauthorized use of the API key will result in immediate suspension of access to the service and may be subject to legal penalties.
+
+18. *Source Code on User Devices*: If the source code is found on your device or any unauthorized device, Abdullah.Dev reserves the right to remove the source code from your device immediately. Any unauthorized use of the source code will result in legal action and the imposition of fines.
+
+19. *Penalty for Unauthorized Use*: In the event of a violation of this License, including the unauthorized use of the source code or API key, Abdullah.Dev reserves the right to impose a monetary penalty of up to [amount] or its equivalent in local currency. The user must pay the fine within [time period] from the date of notification.
+
+20. *Termination of Access*: In the event of a violation of this Agreement, Abdullah.Dev reserves the right to terminate your access to the Software or any associated services immediately, without prior notice. The user must cease all use of the Software and destroy any copies in their possession.
+
+21. *Legal Action*: In the case of any violation of this Agreement, Abdullah.Dev reserves the right to take legal action, including but not limited to filing a lawsuit in the appropriate court, seeking to stop the use of the Software and claim damages resulting from the violation.
+
+22. *Unauthorized Distribution and Modification*: You agree that the source code of the Software is the intellectual property of Abdullah.Dev. Any unauthorized distribution, modification, or use of the source code is strictly prohibited. If you are found in possession of the source code without permission, or if you modify or distribute the code without explicit authorization, you will be subject to legal action, including but not limited to financial penalties of up to [500000$] and the immediate termination of your license. Furthermore, if the code is found to have been shared or used without authorization, Abdullah.Dev reserves the right to take action against all parties involved, including legal proceedings and claims for damages.
+
+23. *Creation of Third-Party Applications*: You are permitted to create and sell applications that are built using this Software, provided that such applications do not contain any part of the original Software itself, are not sold as the Software, and do not violate any law. The Software may not be sold or distributed as-is under any circumstance.
+
+24. *Liability for Misuse*: Abdullah.Dev shall not be held responsible for any illegal or malicious applications developed using this Software. Responsibility for such misuse lies entirely with the person or entity who created or distributed such applications.
+
+25. *Removal of Illegal Applications*: Abdullah.Dev reserves the right to request and enforce the removal of any application created using this Software if it is found to be illegal or violates applicable laws or community standards.
+
+26. *Protection of API and Tampering Prohibition*: Attempting to steal, extract, or tamper with the Software's API key is strictly prohibited. Users must not modify, reroute, or reuse the key in unauthorized ways. Any such activity will result in immediate legal action and permanent termination of this license.
+
+---
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the full License Agreement for more details.
+
+By using, downloading, or distributing the Software, you agree to comply with all terms of this Custom Software License Agreement. If you do not agree, you must not use, download, or distribute the Software.
