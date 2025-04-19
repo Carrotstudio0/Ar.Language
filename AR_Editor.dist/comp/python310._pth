@@ -1,0 +1,13 @@
+python310.zip
+.
+
+# Uncomment to run site.main() automatically
+import site
+DLLs
+tcl
+Lib
+Lib\tkinter
+Lib\turtle
+tcl\tcl8.6
+tcl\tk8.6
+
