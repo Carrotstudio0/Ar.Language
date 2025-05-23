@@ -89,7 +89,9 @@ If you have suggestions, improvements, or find bugs, feel free to contribute! Op
 ---
 
 #### 📄 **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under a custom license.  
+By installing or using this software, you agree to the terms shown during the setup process.  
+The full license text is included within the language files and is displayed before installation.
 
 ---
 
