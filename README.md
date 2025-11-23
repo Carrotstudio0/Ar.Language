@@ -8,7 +8,7 @@ Welcome to **ar language (ltc)**, a unique programming language built on top of 
 ---
 
 #### 🛠 **Developed By**
-**ar language (ltc)** is a project by **Carrot Studio**, developed by[**Abdullah Mohamed**](https://github.com/AbdullahCode14)
+**ar language (ltc)** is a project by **Carrot Studio**, developed by [**Abdullah Mohamed**](https://github.com/AbdullahCode14)
  with contributions from the Carrot Co team. This language aims to provide an innovative approach to programming, making it easier for Arabic-speaking developers to engage in the world of coding.
 
 ---
